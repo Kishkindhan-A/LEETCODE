@@ -35,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0520-detect-capital](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
