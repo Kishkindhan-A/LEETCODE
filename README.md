@@ -27,8 +27,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0541-reverse-string-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
