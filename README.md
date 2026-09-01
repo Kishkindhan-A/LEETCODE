@@ -9,12 +9,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
 | [0152-maximum-product-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0152-maximum-product-subarray) |
+| [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
 | [0219-contains-duplicate-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0414-third-maximum-number) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0414-third-maximum-number) |
 ## Hash Table
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
 | [0520-detect-capital](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0541-reverse-string-ii) |
 ## Backtracking
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0022-generate-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
 <!---LeetCode Topics End-->
