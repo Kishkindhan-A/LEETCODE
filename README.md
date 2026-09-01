@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Kishkindhan-A/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1184-distance-between-bus-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/1184-distance-between-bus-stops) |
 ## Sorting
 |  |
 | ------- |
