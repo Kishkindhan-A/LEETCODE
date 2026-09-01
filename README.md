@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0480-sliding-window-median](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0480-sliding-window-median) |
+| [0495-teemo-attacking](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Sorting
 |  |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0068-text-justification) |
 | [0415-add-strings](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0495-teemo-attacking) |
 ## Trie
 |  |
 | ------- |
