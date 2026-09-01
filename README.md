@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0697-degree-of-an-array) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Kishkindhan-A/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Sorting
 |  |
 | ------- |
@@ -180,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0480-sliding-window-median) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1018-binary-prefix-divisible-by-5](https://github.com/Kishkindhan-A/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 <!---LeetCode Topics End-->
