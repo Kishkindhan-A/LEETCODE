@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0598-range-addition-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0598-range-addition-ii) |
 | [0697-degree-of-an-array](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0697-degree-of-an-array) |
+| [0746-min-cost-climbing-stairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Sorting
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0664-strange-printer](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0664-strange-printer) |
+| [0746-min-cost-climbing-stairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Newton's Method
 |  |
