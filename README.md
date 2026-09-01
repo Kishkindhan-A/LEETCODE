@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0274-h-index) |
+| [0335-self-crossing](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0414-third-maximum-number) |
 ## Sorting
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0069-sqrtx](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0069-sqrtx) |
 | [0224-basic-calculator](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0224-basic-calculator) |
+| [0335-self-crossing](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0335-self-crossing) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
+## Geometry
+|  |
+| ------- |
+| [0335-self-crossing](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0335-self-crossing) |
 <!---LeetCode Topics End-->
