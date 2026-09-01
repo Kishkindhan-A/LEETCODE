@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0031-next-permutation) |
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
 | [0068-text-justification](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0068-text-justification) |
+| [0119-pascals-triangle-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0032-longest-valid-parentheses) |
+| [0119-pascals-triangle-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0664-strange-printer](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0664-strange-printer) |
