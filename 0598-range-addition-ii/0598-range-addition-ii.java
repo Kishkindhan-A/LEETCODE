@@ -1,13 +1,14 @@
-public class Solution {
+class Solution {
     public int maxCount(int m, int n, int[][] ops) {
-        int minX = m;
-        int minY = n;
+        int a = m;
+        int b = n;
+        for(int i = 0; i < ops.length; i++){
+            int x = ops[i][0];
+            int y = ops[i][1];
 
-        for (int[] v : ops) {
-            minX = Math.min(minX, v[0]);
-            minY = Math.min(minY, v[1]);
+            a = Math.min(a, x);
+            b = Math.min(b, y);
         }
-
-        return minX * minY;
+        return a * b;
     }
 }
