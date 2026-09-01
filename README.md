@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0480-sliding-window-median](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0480-sliding-window-median) |
+| [0485-max-consecutive-ones](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0495-teemo-attacking) |
 | [0598-range-addition-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0598-range-addition-ii) |
 | [0697-degree-of-an-array](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0697-degree-of-an-array) |
