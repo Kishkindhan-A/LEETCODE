@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0480-sliding-window-median](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0480-sliding-window-median) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Sorting
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0664-strange-printer](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0664-strange-printer) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Newton's Method
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0480-sliding-window-median) |
+| [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Treap
 |  |
 | ------- |
