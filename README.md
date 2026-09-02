@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0057-insert-interval) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0047-permutations-ii) |
 | [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0218-the-skyline-problem) |
 | [0274-h-index](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0274-h-index) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
