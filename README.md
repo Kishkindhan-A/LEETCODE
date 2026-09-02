@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0274-h-index) |
 | [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
 | [0335-self-crossing](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
 | [0274-h-index](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0274-h-index) |
+| [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0414-third-maximum-number) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0282-expression-add-operators](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
+| [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
 | [0336-palindrome-pairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0336-palindrome-pairs) |
 | [0415-add-strings](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0520-detect-capital) |
@@ -243,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
 | [0480-sliding-window-median](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0480-sliding-window-median) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
 ## Treap
@@ -280,10 +284,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
 ## Graph Theory
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
 ## Topological Sort
 |  |
 | ------- |
@@ -325,4 +331,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Path
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
