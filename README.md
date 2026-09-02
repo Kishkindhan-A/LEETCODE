@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0336-palindrome-pairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0336-palindrome-pairs) |
 | [0415-add-strings](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0520-detect-capital) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0127-word-ladder) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Bidirectional Search
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 ## Graph Theory
 |  |
@@ -276,4 +279,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 <!---LeetCode Topics End-->
