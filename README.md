@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0336-palindrome-pairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0336-palindrome-pairs) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 | [0414-third-maximum-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0414-third-maximum-number) |
 | [0480-sliding-window-median](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0480-sliding-window-median) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0414-third-maximum-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0414-third-maximum-number) |
 ## Hash Table
 |  |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0354-russian-doll-envelopes](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
 ## String
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0233-number-of-digit-one](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0354-russian-doll-envelopes](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 | [0664-strange-printer](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0664-strange-printer) |
 | [0746-min-cost-climbing-stairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0746-min-cost-climbing-stairs) |
 | [0871-minimum-number-of-refueling-stops](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0871-minimum-number-of-refueling-stops) |
@@ -345,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0332-reconstruct-itinerary) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0354-russian-doll-envelopes](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0354-russian-doll-envelopes) |
 <!---LeetCode Topics End-->
