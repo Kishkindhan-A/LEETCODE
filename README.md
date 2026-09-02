@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0022-generate-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0032-longest-valid-parentheses) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -186,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Kishkindhan-A/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
