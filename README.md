@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0093-restore-ip-addresses) |
 | [0127-word-ladder](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0187-repeated-dna-sequences) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0093-restore-ip-addresses) |
+| [0131-palindrome-partitioning](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
 | [0212-word-search-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0282-expression-add-operators) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0174-dungeon-game) |
