@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0057-insert-interval) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
