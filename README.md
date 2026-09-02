@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0203-remove-linked-list-elements](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0224-basic-calculator) |
 ## Math
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0060-permutation-sequence](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0224-basic-calculator) |
