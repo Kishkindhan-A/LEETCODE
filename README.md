@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0068-text-justification) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0218-the-skyline-problem](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Design
 |  |
@@ -367,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Indexed Tree
 |  |
@@ -436,4 +440,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0187-repeated-dna-sequences) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
