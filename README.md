@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0018-4sum) |
 | [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
 | [0218-the-skyline-problem](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0218-the-skyline-problem) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0011-container-with-most-water) |
+| [0016-3sum-closest](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0031-next-permutation) |
