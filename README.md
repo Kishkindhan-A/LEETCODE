@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0336-palindrome-pairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0336-palindrome-pairs) |
 | [0415-add-strings](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0520-detect-capital) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
+| [0282-expression-add-operators](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0282-expression-add-operators) |
 ## Linked List
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0335-self-crossing) |
 | [0415-add-strings](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0415-add-strings) |
 | [0598-range-addition-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0598-range-addition-ii) |
