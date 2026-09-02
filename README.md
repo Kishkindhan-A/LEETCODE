@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
+| [0089-gray-code](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
 ## Linked List
 |  |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0089-gray-code) |
 | [0224-basic-calculator](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0224-basic-calculator) |
 | [0335-self-crossing](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0335-self-crossing) |
 | [0415-add-strings](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0415-add-strings) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0029-divide-two-integers) |
+| [0089-gray-code](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0089-gray-code) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Kishkindhan-A/LEETCODE/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Manacher
 |  |
