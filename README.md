@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0174-dungeon-game](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0212-word-search-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0212-word-search-ii) |
 | [0218-the-skyline-problem](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0228-summary-ranges) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0179-largest-number) |
+| [0212-word-search-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0282-expression-add-operators) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0089-gray-code) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0212-word-search-ii) |
 | [0282-expression-add-operators](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0282-expression-add-operators) |
 | [0301-remove-invalid-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0301-remove-invalid-parentheses) |
 ## Linked List
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0174-dungeon-game](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0174-dungeon-game) |
+| [0212-word-search-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0212-word-search-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0363-max-sum-of-rectangle-no-larger-than-k](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0363-max-sum-of-rectangle-no-larger-than-k) |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
+| [0212-word-search-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0212-word-search-ii) |
 | [0336-palindrome-pairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0336-palindrome-pairs) |
 ## Memoization
 |  |
