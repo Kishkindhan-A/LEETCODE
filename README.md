@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0068-text-justification) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0130-surrounded-regions](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0130-surrounded-regions) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0069-sqrtx) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
