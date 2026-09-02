@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
 | [0089-gray-code](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0089-gray-code) |
@@ -218,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0037-sudoku-solver) |
 | [0174-dungeon-game](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0174-dungeon-game) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -355,4 +359,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0354-russian-doll-envelopes](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0354-russian-doll-envelopes) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
