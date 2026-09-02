@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0228-summary-ranges) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0274-h-index) |
+| [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0335-self-crossing](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0335-self-crossing) |
 | [0336-palindrome-pairs](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0336-palindrome-pairs) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0069-sqrtx) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
+| [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
 ## Matrix
 |  |
 | ------- |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Treap
 |  |
 | ------- |
+| [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
 | [0480-sliding-window-median](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0480-sliding-window-median) |
 ## Bit Manipulation
 |  |
@@ -291,4 +295,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0297-serialize-and-deserialize-binary-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
+## Segment Tree
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
+## Merge Sort
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
+## Ordered Set
+|  |
+| ------- |
+| [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
 <!---LeetCode Topics End-->
