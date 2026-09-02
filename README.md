@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0065-valid-number](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0065-valid-number) |
 | [0068-text-justification](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0127-word-ladder) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0053-maximum-subarray) |
+| [0072-edit-distance](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
