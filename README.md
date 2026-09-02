@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0068-text-justification) |
 | [0118-pascals-triangle](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0118-pascals-triangle) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0140-word-break-ii) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0053-maximum-subarray) |
 | [0218-the-skyline-problem](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0218-the-skyline-problem) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0240-search-a-2d-matrix-ii) |
 | [0327-count-of-range-sum](https://github.com/Kishkindhan-A/LEETCODE/tree/master/0327-count-of-range-sum) |
